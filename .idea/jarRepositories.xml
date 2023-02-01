@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="emr-public-snapshots-repo" />
+      <option name="name" value="Emr Snapshot Repository" />
+      <option name="url" value="https://amazon-149122183214.d.codeartifact.us-west-2.amazonaws.com/maven/emr-release-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="emr-thirdparty-releases-repo" />
+      <option name="name" value="EMR Third Party Releases Repository" />
+      <option name="url" value="https://amazon-149122183214.d.codeartifact.us-west-2.amazonaws.com/maven/emr-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="emr-public-releases-repo" />
+      <option name="name" value="Emr Release Repository" />
+      <option name="url" value="https://amazon-149122183214.d.codeartifact.us-west-2.amazonaws.com/maven/emr-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
